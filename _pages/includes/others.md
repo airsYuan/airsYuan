@@ -15,7 +15,7 @@ Conference/ Journal Reviewers
 
 # 📚 Academic Project
 
-- [A multimodal video to sign language dataset]()
+- [A multimodal video to sign language dataset](https://uq-cvlab.github.io/Auslan-Daily-Dataset/)
 - [How to train a large model from scratch for a specific domain](https://ainlp.blog.csdn.net/article/details/132309827?spm=1001.2014.3001.5502)
 
 # 🤝 Collaborators
