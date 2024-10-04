@@ -9,7 +9,7 @@
 Conference/ Journal Reviewers
 - ACL/EMNLP
 - ACMMM
-- NeurIps
+- NeurIPS
 - AAAI
 - ICASSP
 
