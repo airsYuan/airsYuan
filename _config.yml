@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 title                    : "Shaozu Yuan"
-repository               : "airsYuan/airsYuan.github.io"
+repository               : "airsyuan/airsyuan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
