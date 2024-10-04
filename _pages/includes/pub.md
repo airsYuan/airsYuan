@@ -1,23 +1,23 @@
 
 # 📝 Publications 
-- + indicates corresponding author
+- Note + indicates corresponding author
 - ``AAAI 2024`` [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://chenmengdx.github.io/papers/AAAI-24.pdf), Yiwei Wei, **Shaozu Yuan**+, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, Meng Chen
 - ``TMM 2024`` [MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-commerce Commodities](https://chenmengdx.github.io/papers/TOMM-MuJo-SF.pdf), Meihuizi Jia, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, **Shaozu Yuan**, Xiaodong He
-- ``Information Fusion 2024`` [Learning emotional prompt features with multiple views for visual emotion analysis], Qinfu Xu, Yiwei Wei, **Shaozu Yuan**+, Jie Wu, Leiquan Wang, Chunlei Wu
-- ``KBS 2024`` [Towards visual emotion analysis via Multi-Perspective Prompt Learning with Residual-Enhanced Adapter], Chunlei Wu, **Qinfu Xu**, Yiwei Wei, Shaozu Yuan, Jie Wu, Leiquan Wang
-- ``Information Fusion 2024`` [Learning emotional prompt features with multiple views for visual emotion analysis], Qinfu Xu, Yiwei Wei, **Shaozu Yuan**+, Jie Wu, Leiquan Wang, Chunlei Wu
+- ``Information Fusion 2024`` Learning emotional prompt features with multiple views for visual emotion analysis, Qinfu Xu, Yiwei Wei, **Shaozu Yuan**+, Jie Wu, Leiquan Wang, Chunlei Wu
+- ``KBS 2024`` [Towards visual emotion analysis via Multi-Perspective Prompt Learning with Residual-Enhanced Adapter, Chunlei Wu, **Qinfu Xu**, Yiwei Wei, Shaozu Yuan, Jie Wu, Leiquan Wang
+- ``Information Fusion 2024`` Learning emotional prompt features with multiple views for visual emotion analysis, Qinfu Xu, Yiwei Wei, **Shaozu Yuan**+, Jie Wu, Leiquan Wang, Chunlei Wu
 - ``ACL 2023`` [Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection](https://chenmengdx.github.io/papers/ACL23-Sentiment.pdf), Yiwei Wei, **Shaozu Yuan**+, Ruosong Yang, Lei Shen, Zhangmeizhi Li, Longbiao Wang, Meng Che- ``ACL 2023`` [Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection](https://chenmengdx.github.io/papers/ACL23-Sentiment.pdf), Yiwei Wei, **Shaozu Yuan**+, Ruosong Yang, Lei Shen, Zhangmeizhi Li, Longbiao Wang, Meng Chen
 - ``ACL 2023`` [Tackling Modality Heterogeneity with Multi-View Calibration Network for Multimodal Sentiment Detection](https://chenmengdx.github.io/papers/ACL23-Sentiment.pdf), Yiwei Wei, **Shaozu Yuan**+, Ruosong Yang, Lei Shen, Zhangmeizhi Li, Longbiao Wang, Meng Chen
 - ``NeurIPS 2023`` [Auslan-Daily: Australian Sign Language Translation for Daily Communication and News](https://papers.nips.cc/paper_files/paper/2023/file/feb34ce77fc8b94c85d12e608b23ce67-Paper-Datasets_and_Benchmarks.pdf), Xin Shen, **Shaozu Yuan**, Hongwei Sheng, Heming Du, Xin Yu
-- `` Neurocomputing 2024`` [MPP-net: Multi-perspective perception network for dense video captioning], 	Yiwei Wei, **Shaozu Yuan**+, Meng Chen, Xin Shen, Longbiao Wang, Lei Shen, Zhiling Yan
+- `` Neurocomputing 2024`` MPP-net: Multi-perspective perception network for dense video captioning, 	Yiwei Wei, **Shaozu Yuan**+, Meng Chen, Xin Shen, Longbiao Wang, Lei Shen, Zhiling Yan
 - ``ICASSP 2023`` [Enhancing Multimodal Alignment with Momentum Augmentation for Dense Video Captioning](https://chenmengdx.github.io/papers/ICASSP22-DVC.pdf), Yiwei Wei, **Shaozu Yuan**, Meng Chen, Longbiao Wang
-- ``ICMLCA 2023`` [M-TBQA: Multimodal Table-Based Question Answering], Jingwen Zeng, Zhidong Wu, Rongrong Zheng, Wenting Xue, Chenhui Wang, Xiaoyang Yu, Tao Zhang, **Shaozu Yuan**, Tiangang Zhu
-- ``ICASSP 2023`` [Nested Attention Network with Graph Filtering for Visual Question and Answering], Jing Lu, Chunlei Wu, Leiquan Wang, **Shaozu Yuan**, Jie Wu
+- ``ICMLCA 2023`` M-TBQA: Multimodal Table-Based Question Answering, Jingwen Zeng, Zhidong Wu, Rongrong Zheng, Wenting Xue, Chenhui Wang, Xiaoyang Yu, Tao Zhang, **Shaozu Yuan**, Tiangang Zhu
+- ``ICASSP 2023`` Nested Attention Network with Graph Filtering for Visual Question and Answering, Jing Lu, Chunlei Wu, Leiquan Wang, **Shaozu Yuan**, Jie Wu
 - ``IJCAI 2022`` [Learning to Generate Poetic Chinese Landscape Painting with Calligraphy](https://chenmengdx.github.io/papers/IJCAI22.pdf), **Shaozu Yuan**, Aijun Dai, Zhiling Yan, Ruixue Liu, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He
 - ``ICME 2022`` [SE-GAN: Skeleton Enhanced Gan-Based Model for Brush Handwriting Font Generation](https://chenmengdx.github.io/papers/ICME2022.pdf), **Shaozu Yuan**, Ruixue Liu, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He
 - ``NLPCC 2022`` [MCIC: Multimodal Conversational Intent Classification for E-commerce Customer Service](https://chenmengdx.github.io/papers/NLPCC-MCIC.pdf), **Shaozu Yuan**, Xin Shen, Yuming Zhao, Hang Liu, Zhiling Yan, Ruixue Liu, Meng Chen
 - ``COLING 2022`` [Few-Shot Table Understanding: A Benchmark Dataset and Pre-Training Baseline](https://aclanthology.org/2022.coling-1.329.pdf), Ruixue Liu, **Shaozu Yuan**, Aijun Dai, Lei Shen, Tiangang Zhu, Meng Chen, Xiaodong He
 - ``ICCV 2021`` [SketchBird: Learning to Generate Bird Sketches from Text](https://chenmengdx.github.io/papers/ICCV2021.pdf), **Shaozu Yuan**, Aijun Dai, Zhiling Yan, Zehua Guo, Ruixue Liu, Meng Chen 
 - ``ACMMM 2021`` [Learning to Compose Stylistic Calligraphy Artwork with Emotion](https://chenmengdx.github.io/papers/MM21_calligraphy.pdf), **Shaozu Yuan**, Ruixue Liu, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He 
-- ``ACMMM 2020`` [MaLiang: An Emotion-driven Chinese Calligraphy Artwork Composition System], Ruixue Liu, **Shaozu Yuan**, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He
-- ``LREC 2020`` [The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service], Meng Chen, Ruixue Liu, Lei Shen, **Shaozu Yuan**, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou
+- ``ACMMM 2020`` MaLiang: An Emotion-driven Chinese Calligraphy Artwork Composition System, Ruixue Liu, **Shaozu Yuan**, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He
+- ``LREC 2020`` The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service, Meng Chen, Ruixue Liu, Lei Shen, **Shaozu Yuan**, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou
