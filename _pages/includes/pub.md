@@ -18,4 +18,4 @@
 - ``ICCV 2021`` [SketchBird: Learning to Generate Bird Sketches from Text](https://chenmengdx.github.io/papers/ICCV2021.pdf), **Shaozu Yuan**, Aijun Dai, Zhiling Yan, Zehua Guo, Ruixue Liu, Meng Chen 
 - ``ACMMM 2021`` [Learning to Compose Stylistic Calligraphy Artwork with Emotion](https://chenmengdx.github.io/papers/MM21_calligraphy.pdf), **Shaozu Yuan**, Ruixue Liu, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He 
 - ``ACMMM 2020`` MaLiang: An Emotion-driven Chinese Calligraphy Artwork Composition System, Ruixue Liu, **Shaozu Yuan**, Meng Chen, Baoyang Chen, Zhijie Qiu, Xiaodong He
-- ``LREC 2020`` The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service, Meng Chen, Ruixue Liu, Lei Shen, **Shaozu Yuan**, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou
+- ``LREC 2020`` [The JDDC Corpus: A Large-Scale Multi-Turn Chinese Dialogue Dataset for E-commerce Customer Service](https://chenmengdx.github.io/papers/LREC20.pdf), Meng Chen, Ruixue Liu, Lei Shen, **Shaozu Yuan**, Jingyan Zhou, Youzheng Wu, Xiaodong He, Bowen Zhou
