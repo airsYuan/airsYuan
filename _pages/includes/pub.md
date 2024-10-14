@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-- Note + indicates corresponding author
+- Here is a partial list of my publications. Note that "+" indicates the corresponding author.
 - ``AAAI 2024`` [G^2SAM: Graph-Based Global Semantic Awareness Method for Multimodal Sarcasm Detection](https://chenmengdx.github.io/papers/AAAI-24.pdf), Yiwei Wei, **Shaozu Yuan**+, Hengyang Zhou, Longbiao Wang, Zhiling Yan, Ruosong Yang, Meng Chen
 - ``TMM 2024`` [MuJo-SF: Multimodal Joint Slot Filling for Attribute Value Prediction of E-commerce Commodities](https://chenmengdx.github.io/papers/TOMM-MuJo-SF.pdf), Meihuizi Jia, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, **Shaozu Yuan**, Xiaodong He
 - ``Information Fusion 2024`` Learning emotional prompt features with multiple views for visual emotion analysis, Qinfu Xu, Yiwei Wei, **Shaozu Yuan**+, Jie Wu, Leiquan Wang, Chunlei Wu
